@@ -1,0 +1,4 @@
+ModAPIWindows = 44, 44, 569, 484, Z
+Form1 = 88, 116, 707, 453, , 66, 87, 685, 424, C
+frmMain = 0, 0, 0, 0, C, 66, 87, 446, 424, C
+CTranslucentForm = 0, 0, 0, 0, C
